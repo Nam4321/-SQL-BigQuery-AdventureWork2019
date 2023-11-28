@@ -1,5 +1,5 @@
 # I. Introduction
-
+This project contains an Adventure Works 2019 dataset that I will explore using SQL on Google BigQuery. I was given task to find answers for the following questions related to Adventure Works database.
 
 # II. Exploring the Dataset
 
@@ -54,3 +54,4 @@
 
 
 # III. Conclusion
+In conclusion, my exploration of the Adventureworks2019 dataset using SQL on Google BigQuery based on the Adventureworks2019 dataset has revealed several interesting insights. By exploring Adventureworks2019 dataset, I have gained valuable information about Quantity of items, Sales value & Order quantity,.... which could inform future business decisions. To deep dive into the insights and key trends, the next step will visualize the data with some software like Power BI,Tableau,... Overall, this project has demonstrated the power of using SQL and big data tools like Google BigQuery to gain insights into large datasets.
