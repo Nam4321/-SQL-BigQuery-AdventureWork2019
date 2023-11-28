@@ -1,5 +1,5 @@
 # I. Introduction
-This project contains an Adventure Works 2019 dataset that I will explore using SQL on Google BigQuery. I was given task to find answers for the following questions related to Adventure Works database.
+This project contains an AdventureWorks2019 dataset that I will explore using SQL on Google BigQuery. I was given task to find answers for the following questions related to Adventure Works database.
 
 # II. Exploring the Dataset
 In this project, I will write 08 query in Bigquery base on Adventureworks2019
